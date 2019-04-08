@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  rabbitmq:
+    host: 39.105.2.80
+    port: 5672
+    publisher-confirms: true
